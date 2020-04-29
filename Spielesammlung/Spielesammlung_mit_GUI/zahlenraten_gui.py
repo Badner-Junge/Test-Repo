@@ -260,7 +260,11 @@ guess.set("")
 guesslist = []                                                                              # Eingaben Liste
 guesslist_correct = []                                                                      # Eingaben Liste gültig
 versuch = 0                                                                                 # Versuchszähler
-image = ["neutral.png", "green-near.png", "green-far.png", "red-near.png", "red-far.png"]   # Bild
+image = ["/Volumes/Dokumente/Fabian/Programmieren/Meine Projekte/Spielesammlung/Spielesammlung_mit_GUI/pictures/neutral.png",
+        "/Volumes/Dokumente/Fabian/Programmieren/Meine Projekte/Spielesammlung/Spielesammlung_mit_GUI/pictures/green-near.png",
+        "/Volumes/Dokumente/Fabian/Programmieren/Meine Projekte/Spielesammlung/Spielesammlung_mit_GUI/pictures/green-far.png",
+        "/Volumes/Dokumente/Fabian/Programmieren/Meine Projekte/Spielesammlung/Spielesammlung_mit_GUI/pictures/red-near.png",
+        "/Volumes/Dokumente/Fabian/Programmieren/Meine Projekte/Spielesammlung/Spielesammlung_mit_GUI/pictures/red-far.png"]   # Bild
 pic = 0                                                                                     # Bilderauswahl
 hint_counter = 2                                                                            # Hinweiszähler
 hint_add = []                                                                               # Hinweis hinzufügen

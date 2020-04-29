@@ -355,8 +355,12 @@ counter_mode = tk.IntVar()
 counter_mode.set("0")                                                                       # Zähler Modus
 counter_debug = tk.IntVar()
 counter_debug.set("0")                                                                      # Zähler Debug
-image_choice = ["left_scissor.png", "left_rock.png", "left_paper.png",
-                "right_scissor.png", "right_rock.png", "right_paper.png"]                   # Bilder
+image_choice = ["/Volumes/Dokumente/Fabian/Programmieren/Meine Projekte/Spielesammlung/Spielesammlung_mit_GUI/pictures/left_scissor.png",
+                "/Volumes/Dokumente/Fabian/Programmieren/Meine Projekte/Spielesammlung/Spielesammlung_mit_GUI/pictures/left_rock.png",
+                "/Volumes/Dokumente/Fabian/Programmieren/Meine Projekte/Spielesammlung/Spielesammlung_mit_GUI/pictures/left_paper.png",
+                "/Volumes/Dokumente/Fabian/Programmieren/Meine Projekte/Spielesammlung/Spielesammlung_mit_GUI/pictures/right_scissor.png",
+                "/Volumes/Dokumente/Fabian/Programmieren/Meine Projekte/Spielesammlung/Spielesammlung_mit_GUI/pictures/right_rock.png",
+                "/Volumes/Dokumente/Fabian/Programmieren/Meine Projekte/Spielesammlung/Spielesammlung_mit_GUI/pictures/right_paper.png"]                   # Bilder
 pic_player = tk.IntVar()
 pic_player.set("0")                                                                         # Spieler Bildauswahl
 pic_computer = tk.IntVar()
