@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af732b74-e03e-4a8c-a4bd-45924bb02917" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1WqoHd03f3uqvLQZwrlXAzUO1j3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="FamilyOrganizer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FamilyOrganizer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PyQt" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyQt/FamilyOrganizer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.FamilyOrganizer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af732b74-e03e-4a8c-a4bd-45924bb02917" name="Default Changelist" comment="" />
+      <created>1579886398183</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579886398183</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="286" y="71" width="428" height="479" key="FileChooserDialogImpl" timestamp="1579891868072">
+      <screen x="0" y="36" width="1024" height="564" />
+    </state>
+    <state x="286" y="71" width="428" height="479" key="FileChooserDialogImpl/0.36.1024.564@0.36.1024.564" timestamp="1579891868072" />
+    <state width="1002" height="120" key="GridCell.Tab.0.bottom" timestamp="1585579306554">
+      <screen x="0" y="36" width="1024" height="564" />
+    </state>
+    <state width="1002" height="120" key="GridCell.Tab.0.bottom/0.36.1024.564@0.36.1024.564" timestamp="1585579306554" />
+    <state width="1002" height="120" key="GridCell.Tab.0.center" timestamp="1585579306547">
+      <screen x="0" y="36" width="1024" height="564" />
+    </state>
+    <state width="1002" height="120" key="GridCell.Tab.0.center/0.36.1024.564@0.36.1024.564" timestamp="1585579306547" />
+    <state width="1002" height="120" key="GridCell.Tab.0.left" timestamp="1585579306545">
+      <screen x="0" y="36" width="1024" height="564" />
+    </state>
+    <state width="1002" height="120" key="GridCell.Tab.0.left/0.36.1024.564@0.36.1024.564" timestamp="1585579306545" />
+    <state width="1002" height="120" key="GridCell.Tab.0.right" timestamp="1585579306551">
+      <screen x="0" y="36" width="1024" height="564" />
+    </state>
+    <state width="1002" height="120" key="GridCell.Tab.0.right/0.36.1024.564@0.36.1024.564" timestamp="1585579306551" />
+    <state x="16" y="36" width="986" height="564" key="SettingsEditor" timestamp="1579902293030">
+      <screen x="0" y="36" width="1024" height="564" />
+    </state>
+    <state x="16" y="36" width="986" height="564" key="SettingsEditor/0.36.1024.564@0.36.1024.564" timestamp="1579902293030" />
+    <state x="208" y="146" key="com.intellij.ide.util.TipDialog" timestamp="1585579647947">
+      <screen x="0" y="36" width="1024" height="564" />
+    </state>
+    <state x="520" y="287" key="com.intellij.ide.util.TipDialog/0.23.2560.1353@0.23.2560.1353" timestamp="1585574643466" />
+    <state x="208" y="146" key="com.intellij.ide.util.TipDialog/0.36.1024.564@0.36.1024.564" timestamp="1585579647947" />
+  </component>
+</project>

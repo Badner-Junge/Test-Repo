@@ -1,0 +1,12 @@
+/Volumes/Dokumente/Fabian/Programmieren/Meine Projekte/CSharp/bin/Debug/netcoreapp3.1/CSharp.deps.json
+/Volumes/Dokumente/Fabian/Programmieren/Meine Projekte/CSharp/bin/Debug/netcoreapp3.1/CSharp.runtimeconfig.json
+/Volumes/Dokumente/Fabian/Programmieren/Meine Projekte/CSharp/bin/Debug/netcoreapp3.1/CSharp.runtimeconfig.dev.json
+/Volumes/Dokumente/Fabian/Programmieren/Meine Projekte/CSharp/bin/Debug/netcoreapp3.1/CSharp.dll
+/Volumes/Dokumente/Fabian/Programmieren/Meine Projekte/CSharp/bin/Debug/netcoreapp3.1/CSharp.pdb
+/Volumes/Dokumente/Fabian/Programmieren/Meine Projekte/CSharp/obj/Debug/netcoreapp3.1/CSharp.csprojAssemblyReference.cache
+/Volumes/Dokumente/Fabian/Programmieren/Meine Projekte/CSharp/obj/Debug/netcoreapp3.1/CSharp.AssemblyInfoInputs.cache
+/Volumes/Dokumente/Fabian/Programmieren/Meine Projekte/CSharp/obj/Debug/netcoreapp3.1/CSharp.AssemblyInfo.cs
+/Volumes/Dokumente/Fabian/Programmieren/Meine Projekte/CSharp/obj/Debug/netcoreapp3.1/CSharp.csproj.CoreCompileInputs.cache
+/Volumes/Dokumente/Fabian/Programmieren/Meine Projekte/CSharp/obj/Debug/netcoreapp3.1/CSharp.dll
+/Volumes/Dokumente/Fabian/Programmieren/Meine Projekte/CSharp/obj/Debug/netcoreapp3.1/CSharp.pdb
+/Volumes/Dokumente/Fabian/Programmieren/Meine Projekte/CSharp/obj/Debug/netcoreapp3.1/CSharp.genruntimeconfig.cache
